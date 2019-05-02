@@ -1,0 +1,14 @@
+.header{
+    text-align: center;
+    font-size: 48px;
+    background-color: black;
+    color: white;
+    width: 1350px;
+    height: 75px;
+}
+
+.images{
+    height: 350px;
+    width: 350px;
+    padding: 20pt;
+}
