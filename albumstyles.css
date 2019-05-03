@@ -12,3 +12,16 @@
     width: 350px;
     padding: 20pt;
 }
+
+.img2{
+   flex: 50%;
+   float: centers;
+   width: 350px;
+   height: 350px;
+   padding: 20pt;
+  } 
+
+  .div{
+    height: 350px;
+    width: 1050px;
+}
