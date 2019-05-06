@@ -1,27 +1,45 @@
 .header{
+    font-size: 50px;
     text-align: center;
-    font-size: 48px;
     background-color: black;
     color: white;
-    width: 1350px;
+    height: 80px;
+    width: 100%;
+}
+
+.album{
+    font-size: 35px;
     height: 75px;
+    
+    text-align: center;
 }
 
-.images{
-    height: 350px;
+.left{
+    float: left;
+}
+
+.column{
+    width: 33.3%;
+}
+
+.row{
+    background-color: peachpuff;
+    width: 100%;
+}
+
+.row:after{
+    content: '';
+    display: table;
+    clear: both;
+}
+
+.container{
     width: 350px;
-    padding: 20pt;
+    height: 350px;
+    background-color: peachpuff;
+    margin-right: 94.3px; 
 }
 
-.img2{
-   flex: 50%;
-   float: centers;
-   width: 350px;
-   height: 350px;
-   padding: 20pt;
-  } 
-
-  .div{
-    height: 350px;
-    width: 1050px;
+.body{
+    background-color: peachpuff;
 }
