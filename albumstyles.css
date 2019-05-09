@@ -37,9 +37,25 @@
     width: 350px;
     height: 350px;
     background-color: peachpuff;
-    margin-right: 94.3px; 
+    margin-left: 70px; 
 }
 
 .body{
     background-color: peachpuff;
+}
+
+.div2{
+    height: 150px;
+    text-align: center;
+    padding-top: 25pt;
+    font-size: 35px;
+}
+
+.header2{
+    font-size: 50px;
+    text-align: center;
+    background-color: orangered;
+    color: white;
+    height: 80px;
+    width: 100%;
 }
